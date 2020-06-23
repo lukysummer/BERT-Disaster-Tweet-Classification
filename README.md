@@ -1,4 +1,4 @@
-# Kaggle-Disaster-Tweet-Classification-with-BERT
+# (Kaggle) Disaster Tweet Classification using ＢＥＲＴ
 
 <p align="center"><img src="download.png" width = "440" height = "256"></p>
 
